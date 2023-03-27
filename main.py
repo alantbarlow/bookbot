@@ -51,5 +51,7 @@ class Book:
             print(f"- {letter} was used {instances} times.")
         print()
 
-book = Book("books/frankenstein.txt")
-book.generate_report()
+# Once you've added a book to the projects directory, you can create a new book like this:
+
+# book = Book("books/frankenstein.txt")
+# book.generate_report()
