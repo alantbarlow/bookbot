@@ -1,7 +1,7 @@
 # bookbot
 Welcome to bookbot! With this simple program you can get the contents of a book and generate a report to get its word, character, and letter counts. You can also see a breakdown of how many times each letter was used in the book. 
 
-## Setuping your Dev Environment
+## Setting Up your Dev Environment
 The easiest way for you to run this project on MacOS or Windows is to use the Dev Environments feature of Docker Desktop. This allows you to get an instant Python enironment up and running instantly. To use it, you just need to have "Git", "VSCode", and "Docker Desktop" installed, and make sure you also install the "Dev Containers" plugin for VSCode. For more information on how this works, go to https://docs.docker.com/desktop/dev-environments/create-dev-env/. 
 
 If you don't want to run it in a Docker container, you can always clone this repo to your machine and get Python up and running. The python version used for this project is version 3.11.2.
